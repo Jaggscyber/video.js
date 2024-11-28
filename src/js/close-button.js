@@ -1,3 +1,4 @@
+// Close button
 /**
  * @file close-button.js
  */
