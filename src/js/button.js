@@ -129,3 +129,5 @@ class Button extends ClickableComponent {
 
 Component.registerComponent('Button', Button);
 export default Button;
+
+/* This is for button*/
